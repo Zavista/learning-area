@@ -33,3 +33,12 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
+
+tbody{
+  font-style: italic;
+  font-size: 95%;
+}
+
+tfoot{
+  font-weight: bold;
+}
